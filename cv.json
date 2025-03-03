@@ -1,0 +1,241 @@
+{
+  "basics": {
+    "name": "Ulises Ignacio Valero",
+    "label": "Front-End Developer",
+    "image": "/yo.jpeg",
+    "email": "u.ivalero@hotmail.com",
+    "phone": "+54 1158556488",
+    "url": "",
+    "summary": " Estudiante de desarrollo web con enfoque front-end. Domino HTML, CSS y Javascript. Habilidad para trabajar y comunicarme en ingles",
+    "location": {
+      "address": "Gral Rivas 2483",
+      "postalCode": "1417",
+      "city": "Buenos Aires",
+      "countryCode": "ARG",
+      "region": "Argentina"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Ulises Valero",
+        "url": "https://www.linkedin.com/in/ulises-valero-24b744229/"
+      },
+      {
+        "network": "X",
+        "username": "UliiValero",
+        "url": "https://x.com/UliiValero"
+      },
+      {
+        "network": "GitHub",
+        "username": "UlisesValero",
+        "url": "https://github.com/UlisesValero"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Cis Latam",
+      "position": "Auxiliar administrativo (Pasantia)",
+      "url": "https://www.cislatam.com/",
+      "startDate": "2022-07",
+      "endDate": "2022-10",
+      "summary": "Tareas administrativas y organizacionales, a su vez carga de facturas y cruces",
+      "highlights": [
+        ""
+      ]
+    },
+    {
+      "name": "Trapos Divertidos",
+      "position": "Auxiliar administrativo",
+      "url": "https://www.traposdivertidos.com.ar/",
+      "startDate": "2023-06",
+      "endDate": null,
+      "summary": "Encargado tanto del control del inventario como del relleno de los productos. Preparación de pedidos y a su vez transporte.",
+      "highlights": [
+      ]
+    },
+    {
+      "name": "LinkSolution",
+      "position": "Atención al cliente",
+      "url": "https://www.linksolution.com.ar/",
+      "startDate": "2024-02-15",
+      "endDate": null,
+      "summary": "Operador telefónico del sitio web Cigarrillos Online",
+      "highlights": [
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "institution": "Colegio Nuestra Señora de la Misericordia",
+      "area": "Bachillerato en ciencias sociales y humanidades",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "studyType": "Bachelor",
+      "startDate": "2018",
+      "endDate": "2022",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Cambridge University",
+      "area": "First certificate in english",
+      "url": "https://www.cambridgeenglish.org/latinamerica/",
+      "studyType": "Certificate",
+      "startDate": "2019",
+      "endDate": "2022",
+      "score": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "CoderHouse",
+      "area": "Curso de marketing digital y community manager",
+      "url": "https://www.coderhouse.com/ar/",
+      "studyType": "Course",
+      "startDate": "2022",
+      "endDate": "2023",
+      "score": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Cambridge University",
+      "area": "Certificate in advanced english",
+      "url": "https://www.cambridgeenglish.org/latinamerica/",
+      "studyType": "Certificate",
+      "startDate": "2023",
+      "endDate": "2024",
+      "score": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "CoderHouse",
+      "area": "Desarrollo web (HTML5, CSS & Bootstrap)",
+      "url": "https://www.coderhouse.com/ar/",
+      "studyType": "Course",
+      "startDate": "2025",
+      "endDate": "2025",
+      "score": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "CoderHouse",
+      "area": "Curso de Javascript nativo",
+      "url": "https://www.coderhouse.com/ar/",
+      "studyType": "Course",
+      "startDate": "2025",
+      "endDate": "2025",
+      "score": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "CoderHouse",
+      "area": "Curso de ReactJS",
+      "url": "https://www.coderhouse.com/ar/",
+      "studyType": "Course",
+      "startDate": "2026",
+      "endDate": null,
+      "score": "",
+      "courses": [
+      ]
+    }
+  
+  ],
+
+
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Trainee",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+
+    {
+      "name": "Node",
+      "level": "Trainee",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+       "Colaboración", "Git"
+      ]
+    },
+
+    {
+      "name": "React",
+      "level": "Trainee",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Benegan-Nails",
+      "isActive": true,
+      "description": "Sitio web para empresa de Belleza",
+      "highlights": [
+        "Javascript",
+        "HTML & CSS"
+      ],
+      "url": "https://ulisesvalero.github.io/Benegan-Nails/"
+    },
+    {
+      "name": "Trapos-Divertidos",
+      "isActive": true,
+      "description": "Simulación de sitio web para empresa de articulos para bebés ",
+      "highlights": [
+        "HTML & CSS"
+      ],
+      "url": "https://ulisesvalero.github.io/Trapos-Divertidos/"
+    },
+    {
+      "name": "TheKidd-U",
+      "isActive": false,
+      "description": "Sitio web para mi futuro emprendimiento de smash burgers",
+      "highlights": [
+        "ReactJS",
+        "Javascript",
+        "HTML & CSS"
+      ],
+      "url": "https://github.com/UlisesValero/TheKidd-U"
+    }
+  ]
+}
